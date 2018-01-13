@@ -1,8 +1,3 @@
-# Folders
-.idea/
-.gradle/
-build/
-out/
-
-# Files
-spring-boot-test.iml
+#Project
+workspace.xml
+tasks.xml
